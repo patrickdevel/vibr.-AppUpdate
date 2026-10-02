@@ -1,3 +1,9 @@
+Title: Update! We added a cool Feature
+Date: 02.10.2026
+Text: We added this message system: You now can recieve messages from ouer team to updates and more
+Button: Our Webite
+ButtonLink: https://vibrmusicproject.vercel.app/
+---
 Title: vibr. Beta will be rolled out soon! (DATE IS UNKOWN)
 Date: 02.10.2026
 Text: Go on this GitHub Page to see updates and more for later!
