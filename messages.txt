@@ -1,0 +1,7 @@
+Title: Here is a title
+Date: 20.02.2026
+Text: this is a /n test
+---
+Title: Here is another title
+Date: 18.02.2023
+Text: this is a text
