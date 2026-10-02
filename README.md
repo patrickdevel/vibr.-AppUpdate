@@ -1,5 +1,5 @@
 # vibr.-AppUpdate
-Update hier deine vibr.-App.
+- Update hier deine vibr.-App.
 ---
 # vibr.-AppUpdate
-Update your vibr. app here. 
+- Update your vibr. app here. 
