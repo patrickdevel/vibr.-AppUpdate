@@ -1,7 +1,9 @@
-Title: Here is a title
-Date: 20.02.2026
-Text: this is a /n test
+Title: vibr. Beta will be rolled out soon!
+Date: 02.10.2026
+Text: Go on this GitHub Page to see updates and more for later!
+Button: View
+ButtonLink: https://github.com/patrickdevel/vibr.-AppUpdate/
 ---
-Title: Here is another title
-Date: 18.02.2023
-Text: this is a text
+Title: Welcome to vibr.!
+Date: 02.10.2026
+Text: We hope that you have fun!
