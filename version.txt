@@ -1,5 +1,9 @@
 3.1.0
+2026-10-02
 ---What's new?---
-- Playlist design revised 
-- Lyrics Bugfixes
-- and more!
+- Playlist design revised
+- Added a Artist-Buttom-Modal Sheet in Albums to show all artists
+- switched some icons
+- deleted some things
+- Stability improvement
+- and more.
