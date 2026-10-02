@@ -1,1 +1,5 @@
-nothing here :(
+3.1.0
+---What's new?---
+- Playlist design revised 
+- Lyrics Bugfixes
+- and more!
