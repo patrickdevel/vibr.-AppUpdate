@@ -1,3 +1,7 @@
+Title: We are working on a bug fix. 
+Date: 03.10.2026
+Text: We've discovered a bug: The setup screen briefly appears when the app starts. We're working on a fix. 
+---
 Title: Closed Beta hast started!
 Date: 03.10.2026
 Text: We are testing this App now. The release is Soon.
