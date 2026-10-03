@@ -1,5 +1,5 @@
 Title: Closed Beta hast started!
-Date: 02.10.2026
+Date: 03.10.2026
 Text: We are testing this App now. The release is Soon.
 Button: Our Webite
 ButtonLink: https://vibrmusicproject.vercel.app/
