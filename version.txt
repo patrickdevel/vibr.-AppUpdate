@@ -1,5 +1,5 @@
-3.1.0
+4.0.2
 2026-10-03
 ---What's new?---
-- added an Update-System for App updates
-- added a welcome screen
+- fixed, that the onboarding screen is showed by loading the app
+- changed some things
