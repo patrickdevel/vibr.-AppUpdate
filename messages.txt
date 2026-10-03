@@ -1,6 +1,6 @@
-Title: We are working on a bug fix. 
-Date: 03.10.2026
-Text: We've discovered a bug: The setup screen briefly appears when the app starts. We're working on a fix. 
+Title: A cool new big feature is here!
+Date: 04.10.2026
+Text: you can add songs by tapping "Add to playlist" in a playlist -> a cool designed add-screen with fadeouts, previews and search-bar
 ---
 Title: Closed Beta hast started!
 Date: 03.10.2026
