@@ -3,4 +3,4 @@
 ---What's new?---
 - Redesigned Search Screen (with fadeouts)
 - Redesigned Playlistscreen (with fadeouts and animations)
-- added: you can add songs by tapping "Add to playlist" in a playlist -> a cool designed add-creen with fadeouts, previews and search-bar
+- added: you can add songs by tapping "Add to playlist" in a playlist -> a cool designed add-screen with fadeouts, previews and search-bar
