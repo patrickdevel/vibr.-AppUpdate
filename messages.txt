@@ -2,6 +2,10 @@ Title: We have detected a bug:
 Date: 04.10.2026
 Text: We've discovered a bug where loading a preview on the "Add to Playlist" screen can sometimes take an extremely long time. We're working on a fix. 
 ---
+Title: The App is offical out now! 
+Date: 04.10.2026
+Text: Test it. If you find a bug, please report it to patanimations.sup@gmail.com. 
+---
 Title: A cool new big feature is here!
 Date: 04.10.2026
 Text: you can add songs by tapping "Add to playlist" in a playlist -> a cool designed add-screen with fadeouts, previews and search-bar
