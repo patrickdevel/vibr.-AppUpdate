@@ -1,19 +1,7 @@
-8.2.5
-2026-10-04
+9.45.8
+2026-10-06
 ---What's new?---
-- Redesigned Search Screen
-- Redesigned AddToPlaylist-Screen
-- fixed, that songs, that you add to playlists over the Add to playist-Screen, will be not saved
-- redesigned Cached-Songs playlist
-- redesigned more Playlist-Screens
-- planed next update
----
-CHANGES ON ADDTOPLAYLISTSCREEN:
-- added pills, with a search history
-- added, when you hold a song for few seconds, that you can select several songs at once and add them to the playlist
-- added pills under the header with: recently played, favorite songs, most played, suggestions
-- added fadeout on the pills
-- added not found/loading screen
-- added fadeover when switch to search or to another selected pill
----
-- and more!
+- changed App icon
+- Added Lyrics-Preview to the normal player
+- redesigned the player
+- added a button in QueueCorner, to see the device, over that you listen msuic with modal buttom sheet to show volume and more options
