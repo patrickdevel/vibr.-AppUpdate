@@ -1,3 +1,10 @@
+Title: We found bugs
+Date: 06.10.2026
+Text: Yes, we found bugs (again) - sorry for that:
+The Provider "BetterLyrics" has annoter format to send lyrics - that's no problem - but for the New feature "Lyrics-Preview" (it's showing the HTML-Code)
+We're workling on a fix.
+- vibr.-Team
+---
 Title: New Update! (8.2.5)
 Date: 04.10.2026
 Text: ---What's new?---
