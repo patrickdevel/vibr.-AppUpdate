@@ -1,4 +1,4 @@
-11.53
+11.52
 2026-10-06
 ---What's new?---
 - Added a lyrics preview below the player
