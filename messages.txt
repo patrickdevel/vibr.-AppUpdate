@@ -1,4 +1,32 @@
-Title: We found bugs
+Title: ⓘ You can now send us suggestions...
+Date: 06.10.2026
+Text: You can now send us suggestions for improving the app!
+- How? Simply click the button below.
+
+ⓘ This app is not affiliated with Microsoft or Microsoft Forms. We simply use the online app to create surveys for our community.
+---
+Title: We apologize for the many updates lately...
+Date: 06.10.2026
+Text: We apologize for the frequent updates lately. However, we cannot promise that future updates will be released with less delay. Since the app has only been online for a few days, we are continuously working to improve it.
+---
+Title: NEW UPDATE
+Date: 06.10.2026
+Text: What's new?
+- Added a lyrics preview below the player
+- Added a scrolled player top bar to briefly display the current song at the top, so you always know which song you're on while scrolling
+- Added an artist info card below the lyrics preview block
+- Added Bluetooth device management (with volume, etc.)
+- Added a profile picture viewer in Artist Screens
+- Added a plus symbol in the Library screen for creating playlists
+
+Fixed/Changes:
+- Changed the player's orientation
+- Removed the "Sleep Timer" from Queue Components and moved it to Player Settings
+- Transformed the playlist creation popup into a modal button sheet
+- Fixed the issue where the welcome screen was displayed for a few seconds every time the app started
+- Fixed: The LyricsPreview now displays the entire HTML code of the provider "Betterlyrics".
+---
+Title: We found bugs [UPDATE: FIXED]
 Date: 06.10.2026
 Text: Yes, we found bugs (again) - sorry for that:
 The Provider "BetterLyrics" has annoter format to send lyrics - that's no problem - but for the New feature "Lyrics-Preview" (it's showing the HTML-Code)
