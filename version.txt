@@ -1,7 +1,16 @@
-9.45.8
+11.52
 2026-10-06
 ---What's new?---
-- changed App icon
-- Added Lyrics-Preview to the normal player
-- redesigned the player
-- added a button in QueueCorner, to see the device, over that you listen msuic with modal buttom sheet to show volume and more options
+- Added a lyrics preview below the player
+- Added a scrolled player top bar to briefly display the current song at the top, so you always know which song you're on while scrolling
+- Added an artist info card below the lyrics preview block
+- Added Bluetooth device management (with volume, etc.)
+- Added a profile picture viewer in Artist Screens
+- Added a plus symbol in the Library screen for creating playlists
+
+Fixed/Changes:
+- Changed the player's orientation
+- Removed the "Sleep Timer" from Queue Components and moved it to Player Settings
+- Transformed the playlist creation popup into a modal button sheet
+- Fixed the issue where the welcome screen was displayed for a few seconds every time the app started
+- Fixed: The LyricsPreview now displays the entire HTML code of the provider "Betterlyrics".
