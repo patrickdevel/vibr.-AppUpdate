@@ -4,8 +4,8 @@ Text: You can now send us suggestions for improving the app!
 - How? Simply click the button below.
 
 ⓘ This app is not affiliated with Microsoft or Microsoft Forms. We simply use the online app to create surveys for our community.
-Button: https://forms.cloud.microsoft/r/ftEJy2zvnk
-ButtonText: Click here!
+Button: Click here!
+ButtonLink: https://forms.cloud.microsoft/r/ftEJy2zvnk
 ---
 Title: We apologize for the many updates lately...
 Date: 06.10.2026
