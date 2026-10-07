@@ -1,16 +1,9 @@
-11.52
-2026-10-06
+12.52056
+2026-10-07
 ---What's new?---
-- Added a lyrics preview below the player
-- Added a scrolled player top bar to briefly display the current song at the top, so you always know which song you're on while scrolling
-- Added an artist info card below the lyrics preview block
-- Added Bluetooth device management (with volume, etc.)
-- Added a profile picture viewer in Artist Screens
-- Added a plus symbol in the Library screen for creating playlists
+- Added a modal buttom sheet for Cooperation partner-Information
+- Added a Cooperation partner for teh App (University Bot)
+- Added a new loading animation on the App start
 
 Fixed/Changes:
-- Changed the player's orientation
-- Removed the "Sleep Timer" from Queue Components and moved it to Player Settings
-- Transformed the playlist creation popup into a modal button sheet
-- Fixed the issue where the welcome screen was displayed for a few seconds every time the app started
-- Fixed: The LyricsPreview now displays the entire HTML code of the provider "Betterlyrics".
+- Fixed, that the App "laggs" on the App-Start
