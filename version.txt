@@ -2,7 +2,7 @@
 2026-10-07
 ---What's new?---
 - Added a modal buttom sheet for Cooperation partner-Information
-- Added a Cooperation partner for teh App (University Bot)
+- Added a Cooperation partner for the App (University Bot)
 - Added a new loading animation on the App start
 
 Fixed/Changes:
