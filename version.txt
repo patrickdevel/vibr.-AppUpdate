@@ -1,9 +1,12 @@
-12.52056
-2026-10-07
+13.529
+2026-10-09
 ---What's new?---
-- Added a modal buttom sheet for Cooperation partner-Information
-- Added a Cooperation partner for the App (University Bot)
-- Added a new loading animation on the App start
+- Adding Artist Carousel
+- Adding a new module in the player: QueuePreviewBlock
+- and more
 
 Fixed/Changes:
-- Fixed, that the App "laggs" on the App-Start
+- Changing the button position on the player
+- Change the player's default theme to Coloring
+- Share moved to PlayerMenu
+- and more
