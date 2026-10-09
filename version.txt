@@ -1,12 +1,8 @@
-13.529
-2026-10-09
+14.254
+2026-10-10
 ---What's new?---
-- Adding Artist Carousel
-- Adding a new module in the player: QueuePreviewBlock
-- and more
+- completly redesigned player.kt
+- completly redesigned the playlistdesign
 
 Fixed/Changes:
-- Changing the button position on the player
-- Change the player's default theme to Coloring
-- Share moved to PlayerMenu
-- and more
+- fixed coloring in player
