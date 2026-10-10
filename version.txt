@@ -1,8 +1,13 @@
-14.254
+15.554
 2026-10-10
 ---What's new?---
-- completly redesigned player.kt
-- completly redesigned the playlistdesign
+- you can now swipe at ScrolledPlayerTopBar to the left/right to switch the song
+- Redesigned "Details"-Modal Buttom Sheet in Player
+- Redesigned widget
+- and more.
 
 Fixed/Changes:
-- fixed coloring in player
+- ( ⋮ ) and ( ⌄ ) aren't longer sticky in the player
+- new colors in player
+- fixed bugs
+- and more.
