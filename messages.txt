@@ -1,3 +1,9 @@
+Title: ⓘ We now have a Articles-Room
+Date: 06.10.2026
+Text: Visit it now.
+Button: View now!
+ButtonLink: https://vibrmusicproject.vercel.appT
+---
 Title: ⓘ You can now send us suggestions...
 Date: 06.10.2026
 Text: You can now send us suggestions for improving the app!
