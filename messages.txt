@@ -2,7 +2,7 @@ Title: ⓘ We now have a Articles-Room
 Date: 06.10.2026
 Text: Visit it now.
 Button: View now!
-ButtonLink: https://vibrmusicproject.vercel.appT
+ButtonLink: https://vibrmusicproject.vercel.app/
 ---
 Title: ⓘ You can now send us suggestions...
 Date: 06.10.2026
