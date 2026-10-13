@@ -1,13 +1,7 @@
-15.554
-2026-10-10
+17.727
+2026-10-13
 ---What's new?---
-- you can now swipe at ScrolledPlayerTopBar to the left/right to switch the song
-- Redesigned "Details"-Modal Buttom Sheet in Player
-- Redesigned widget
-- and more.
+- You can now activate Liquid Glass Design!!!!
 
 Fixed/Changes:
-- ( ⋮ ) and ( ⌄ ) aren't longer sticky in the player
-- new colors in player
-- fixed bugs
-- and more.
+- /
