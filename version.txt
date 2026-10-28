@@ -1,7 +1,11 @@
-17.727
-2026-10-13
+18.25.26
+2026-10-28
 ---What's new?---
-- You can now activate Liquid Glass Design!!!!
 
-Fixed/Changes:
-- /
+- YOU CAN NOW TRANSLATE LYRICS
+
+- Changed TopBar Design
+- Added ArtistInfo screen
+- Added PlaySymbol to Playlist Top bar
+- Added an own Volume Panel
+- and more.
