@@ -1,11 +1,9 @@
-18.25.26
-2026-10-28
+19.51.62
+2026-11-1
 ---What's new?---
 
-- YOU CAN NOW TRANSLATE LYRICS
-
-- Changed TopBar Design
-- Added ArtistInfo screen
-- Added PlaySymbol to Playlist Top bar
-- Added an own Volume Panel
+- ‼️ vibr. IS NOW RiftMusic
+- Changed Player Stlye
+- Added Lyrics Line
+- added Canvas functions
 - and more.
