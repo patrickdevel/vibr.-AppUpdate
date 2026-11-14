@@ -1,7 +1,7 @@
 4.12.85
 2026-11-14
 ---What's new?---
-⚠️⚠️CLEAN INSTALL REQIERED⚠️⚠️
+⚠️⚠️CLEAN INSTALL REQUIERED⚠️⚠️
 - New Spotify Support
 - RiftMusic is now "sona."
 - too much more
