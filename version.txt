@@ -1,9 +1,7 @@
-19.51.62
-2026-11-1
+4.12.85
+2026-11-14
 ---What's new?---
-
-- ‼️ vibr. IS NOW RiftMusic
-- Changed Player Stlye
-- Added Lyrics Line
-- added Canvas functions
-- and more.
+⚠️⚠️CLEAN INSTALL REQIERED⚠️⚠️
+- New Spotify Support
+- RiftMusic is now "sona."
+- too much more
